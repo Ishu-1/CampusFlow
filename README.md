@@ -51,7 +51,7 @@ CampusFlow is a comprehensive college management platform designed to streamline
 
 ```sh
 # 1. Clone the repository
-git clone https://github.com/sujalkyal/CampusFlow.git
+git clone https://github.com/Ishu-1/CampusFlow.git
 cd CampusFlow
 
 # 2. Install dependencies from the root
@@ -116,6 +116,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions, feedback, or support:
-
-- Website: [sujalkyal.dev.in](https://sujaldev-ten.vercel.app/)
-- Email: sujalkyal.dev@gmail.com
+- Email: ishugupta3556@gmail.com
